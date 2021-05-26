@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ML based projects
+- 🔭 I’m a Data Science Enthusiast
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on ML projects
 - 🤔 I’m looking for help with AI
